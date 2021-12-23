@@ -1,0 +1,11 @@
+fileignoreconfig:
+- filename: data/books.jsonl
+  checksum: e422a02a0a489b90d74fff7a56b967a1021e3e6d829332619003281f84b4e3b9
+- filename: docker-compose.yaml
+  checksum: 9d761a085a4d89f57b9720f98c58b28b903797c74dc078a60cceeb627bfab748
+- filename: dumpDataToCollection.js
+  checksum: 979503299082d3e2ea79b80a2b737cc6395c8248482996f0728ee8c466bf686a
+- filename: package-lock.json
+  checksum: 80dcdb1e3c944311c266c62bc7b8a5be645e5aaaae3efbc96da4fe7380d3d6f8
+- filename: setting.js
+  checksum: 37764d2c352e4471da44f6e906439324f793744012df9afbeb81012c14c68e22
